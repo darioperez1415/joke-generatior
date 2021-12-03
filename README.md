@@ -36,6 +36,3 @@ export default getJoke;
 ```
 ## Project Screenshots 
 ![joke-Generator](https://user-images.githubusercontent.com/83309084/144684099-ed4b09ea-a411-4102-bc2d-b65827f7a318.png)
-
-## Contributors
-- [Dario Perez](https://github.com/darioperez1415)

@@ -23,7 +23,7 @@ function Initialize() {
         <div className="card-body">
           <h5 className="card-title">Joke Generator</h5>
           <hr />
-          <h3>{joke.setup}</h3>
+          <h4>{joke.setup}</h4>
           <h1>{btnText !== 'Get Punchline' ? joke.punchline : ''}</h1>
           {btnText === 'Get a Joke' || btnText === 'Get Another Joke' ? (
             <button onClick={getAJoke} className="btn btn-primary" type="button">
